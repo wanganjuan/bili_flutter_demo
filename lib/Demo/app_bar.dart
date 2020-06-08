@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
-
+// appbar 渐隐渐显！
 class SelfAppBar extends StatefulWidget {
   SelfAppBar({Key key}) : super(key: key);
 
